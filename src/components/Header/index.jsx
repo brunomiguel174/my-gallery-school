@@ -21,6 +21,14 @@ const Header = () => {
         >
           Gallery
         </NavLink>
+
+        <NavLink 
+          to="/mindera"
+          className="link"
+          activeClassName="active-link"
+        >
+          Mindera
+        </NavLink>
       </nav>
     </header>
   )
