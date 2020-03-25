@@ -2,4 +2,4 @@
 
 # 2. Adicionar o link no header
 
-# 3. Adicionar o link na pagina HomePage e na pagina GalleryPage
+# 3. Adicionar o link na pagina HomePage e na pagina GalleryPage 
